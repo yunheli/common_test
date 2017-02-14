@@ -1,0 +1,15 @@
+name: hello_word
+version: 0.0.1
+language: ruby
+description: console hello_word
+tags:
+ - ruby
+ - hello
+ - plugin
+
+public: true
+
+
+outputs:
+
+script_path: ./run.sh
