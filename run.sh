@@ -15,3 +15,4 @@
 set +e
 
 echo "hello world"
+echo 1
